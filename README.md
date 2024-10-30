@@ -1,5 +1,4 @@
 # Проект: Лендинг сайта Евклид.
-##### Практикум по Веб-разработке
 
 ## Технологии
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=white)
